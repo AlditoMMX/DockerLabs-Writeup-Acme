@@ -1,4 +1,4 @@
-# DockerLabs-Writeup-Acme
+# DockerLabs — Acme | Technical Write-up
 
 ## 1. Descripción general
 Este documento presenta el análisis técnico y la resolución de la máquina Acme, perteneciente a la plataforma DockerLabs. El objetivo es documentar de forma estructurada las etapas del proceso de evaluación de seguridad, desde el reconocimiento inicial hasta la obtención de privilegios de administrador (root).
